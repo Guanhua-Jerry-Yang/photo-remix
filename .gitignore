@@ -1,0 +1,10 @@
+__pycache__/
+.DS_Store
+# 运行产物和任何照片都不进仓库
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.zip
+report.html
+runs/
